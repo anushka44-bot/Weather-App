@@ -1,0 +1,40 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.container{
+  background-color: black;
+  color: aliceblue;
+  height: 689px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.temp{
+  font-size: 80px;
+}
+.time-location{
+  font-size: 35px;
+}
+.condition{
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+}
+nav{
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+}
+.search-area{
+ font-size: 1rem;
+ width: 15rem;
+ margin-right: 3rem;
+ border-radius: 0.5rem;
+}
+.button{
+  font-size: 1rem;
+}
